@@ -5,8 +5,12 @@
     "3000": {
       "label": "Cloud-Torrent-MainPort"
     },
-    "42069": {
-      "label": "Inbound-Torrent-Port"
+    "8989": {
+      "label": "FileServer"
+    },"9091": {
+      "label": "transmission-webui"
+    },"51413": {
+      "label": "Transmission-port"
     },
     "8112": {
       "label": "DelugeWebui-MainPort"

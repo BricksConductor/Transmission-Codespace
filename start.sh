@@ -1,1 +1,2 @@
-droppy start -f /workspaces/tor/downloads
+droppy start -f /home/codespace/Downloads --daemon
+transmission-daemon 

@@ -1,0 +1,24 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "forwardPorts": [3000, 42069, 58946, 8112, 49614, 58846],
+  "portsAttributes": {
+    "3000": {
+      "label": "Cloud-Torrent-MainPort"
+    },
+    "42069": {
+      "label": "Inbound-Torrent-Port"
+    },
+    "8112": {
+      "label": "DelugeWebui-MainPort"
+    },
+    "49614": {
+      "label": "DelugeCommPorts"
+    },
+    "58946": {
+      "label": "DelugeCommPorts2"
+    },"58846": {
+      "label": "DelugeCommPorts3"
+    }
+  },
+  "features": {}
+}

@@ -1,2 +1,2 @@
-droppy start -f /home/codespace/Downloads --daemon
-transmission-daemon -c /home/codespace/Downloads/upload_torrents_here
+droppy start -f /workspaces/Transmission-Codespace/Downloads --daemon
+transmission-daemon -c /workspaces/Transmission-Codespace/Downloads/upload_torrents_here

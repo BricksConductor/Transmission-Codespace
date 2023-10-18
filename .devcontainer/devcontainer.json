@@ -1,11 +1,11 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-    "forwardPorts": [3000, 42069, 58946, 8989, 51413, 9091],
+    "forwardPorts": [3000, 42069, 58946, 8080, 51413, 9091],
   "portsAttributes": {
     "3000": {
       "label": "Cloud-Torrent-MainPort"
     },
-    "8989": {
+    "8080": {
       "label": "FileServer-MainPort"
     },
     "9091": {
